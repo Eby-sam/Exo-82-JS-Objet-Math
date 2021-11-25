@@ -25,25 +25,15 @@ console.log("exo 8 : " + exo8);
 let exo9 = Math.min(5, 1, 12, -1, 45);
 console.log("exo9 : " + exo9);
 
-let a1 = 9.568124;
-console.log(Number.parseInt(a1) + " = 9.568124");
+let exo10 = Math.min(9,12,16,44,3);
+console.log("exo10 : " + exo10);
 
-function mini (nombre1, nombre2, nombre3, nombre4, nombre5){
 
-    return nombre1, nombre2, nombre3, nombre4, nombre5;
-}
+let exo11 = Math.max(5,1,12,-1,45);
+console.log("exo11 : " + exo11);
 
-function max (nbr1 , nbr2 , nbr3 , nbr4, nbr5){
-
-    return nbr1, nbr2, nbr3, nbr4, nbr5;
-}
-console.log(Math.min(mini(5,1,12,-1,45)));
-
-console.log(Math.min(mini(9,12,16,44,3)));
-
-console.log(Math.max(max(5,1,12,-1,45)));
-
-console.log(Math.max(max(9,12,16,44,3)));
+let exo12 = Math.max(9,12,16,44,3);
+console.log("exo12 : " + exo12);
 
 let a = -6;
 console.log(Math.abs(a) + " = -6");
